@@ -33,7 +33,7 @@
   "author": "ignacio.cabrera@goatlab.io",
   "license": "MIT",
   "dependencies": {
-    "@goatlab/fluent": "^0.2.6"
+    "@goatlab/fluent": "^0.9.27"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
